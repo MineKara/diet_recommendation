@@ -1,5 +1,5 @@
 
-# 🚀 YuMMYuuL
+# 🚀 YuMMYuuL - Food Recommendation System
 
 Welcome to the repository for Food Recommendation —where innovation meets code! This project was born out of a passion for developing an app for those who don't know what to do for dinner. With a focus on streamlit, we aim to recommend food based on calorie and time.
 
